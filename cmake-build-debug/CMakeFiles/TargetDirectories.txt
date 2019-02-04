@@ -1,0 +1,3 @@
+/home/mykolabova/_bova/code/az.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mykolabova/_bova/code/az.cpp/cmake-build-debug/CMakeFiles/cppHW.dir
+/home/mykolabova/_bova/code/az.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
