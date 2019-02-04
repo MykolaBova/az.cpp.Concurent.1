@@ -2,3 +2,4 @@
 *.name
 *.iml
 vcs.xml
+workspace.xml
