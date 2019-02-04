@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\common">
+      <UniqueIdentifier>{006c42d3-b148-4fe1-81a5-59bb7fbca54b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\1">
+      <UniqueIdentifier>{cec1dbe0-0b38-4c01-b63f-f49f1b7f61ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\2">
+      <UniqueIdentifier>{fc652cca-b447-49e1-a7ef-8d9057602f99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\3">
+      <UniqueIdentifier>{e9932437-4b50-4daa-b3b1-e77f2bc7da9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\4">
+      <UniqueIdentifier>{7576b49b-d735-4d06-99c6-ad852f2e1ab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\5">
+      <UniqueIdentifier>{a459b6f9-40f4-4f96-8892-12b93a94136b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CppConcurrency.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="thread_guard.h">
+      <Filter>Header Files\common</Filter>
+    </ClInclude>
+    <ClInclude Include="parallel_accumulate.h">
+      <Filter>Header Files\common</Filter>
+    </ClInclude>
+    <ClInclude Include="V2_launching a new thread.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V3_join and detach.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V4_join and detach 1.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V4_join and detach 2.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V5_join and detach reliable mechanism 1.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V5_join and detach reliable mechanism 2.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V5_join and detach reliable mechanism 3.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V6_passing parameters to a thread 1.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V6_passing parameters to a thread 2.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V7_problems when passing reference to a thread.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V8_move semantics.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V9_hardware concurrency.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V10_accumulate algorithm.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V14_what can go wrong with mutex 1.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V14_what can go wrong with mutex 2.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V16_simple stack implementation.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V13_protecting shared data with mutex with lock guard.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V13_protecting shared data with mutex.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V17_simple stack_avoid race condition inherit from interface.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V18_dead lock example.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V18_bank account.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V19_bank account with unique lock.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V19_lock ownership transfer.h">
+      <Filter>Header Files\2</Filter>
+    </ClInclude>
+    <ClInclude Include="V9_some usefull functions.h">
+      <Filter>Header Files\1</Filter>
+    </ClInclude>
+    <ClInclude Include="V20_overnight_bus_example.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V21_overnight_bus_example_with_condition_variable.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V23_thread_safe_queue.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V24_introduction_to_futures.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V25_asynchronous_task_intro.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V26_parallel_accumulate_with_async.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V27_package_tasks.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V28_promises_introduction.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V29_passing exception with promises.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V30_1_problem_when_waiting_for_future_mutiple_threads.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V30_2_shared_future.h">
+      <Filter>Header Files\3</Filter>
+    </ClInclude>
+    <ClInclude Include="V32_thread_safe_queue_1.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V32_thread_safe_queue_2.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V33_thread_safe_queue_3.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V33_thread_safe_queue_4.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V34_sequential_quick_sort.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V34_parallel_quick_sort.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V32_thread_safe_queue_0.h">
+      <Filter>Header Files\4</Filter>
+    </ClInclude>
+    <ClInclude Include="V36_atomic_flag.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V37_atomic_bool_1.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V37_atomic_bool_2.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V38_compare_exchange.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V39_atomic_pointer_1.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V39_atomic_pointer_2.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V41_important_relationships.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V42_introduction_to_memory_ordering_options.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V43_mem_order_seq_cst.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V45_mem_order_relaxed.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V46_mem_order_acq_rel_1.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V47_mem_order_acq_rel_2.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V48_transitive_synchronization.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V49_mem_order_consume.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V50_release_sequence.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+    <ClInclude Include="V51_spin_lock_mutex.h">
+      <Filter>Header Files\5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

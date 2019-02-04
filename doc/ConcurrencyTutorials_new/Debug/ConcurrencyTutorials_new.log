@@ -1,0 +1,62 @@
+﻿Build started 6/8/2017 5:09:19 PM.
+     1>Project "E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\ConcurrencyTutorials_new\ConcurrencyTutorials_new.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt atomic_bool_2.cpp atomic_int_compare_exchange.cpp
+         atomic_int_compare_exchange.cpp
+         atomic_bool_2.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\Debug\ConcurrencyTutorials_new.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\Debug\ConcurrencyTutorials_new.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\Debug\ConcurrencyTutorials_new.lib" /MACHINE:X86 Debug\asynchronous_task.obj
+         Debug\atomic_bool_1.obj
+         Debug\atomic_bool_2.obj
+         Debug\atomic_int_compare_exchange.obj
+         Debug\call_once_and_once_flag.obj
+         Debug\ConcurrencyTutorials_new.obj
+         Debug\dead_locks_bank_account.obj
+         Debug\dead_lock_bank_account_with_solution.obj
+         Debug\dead_lock_bank_account_with_unique_locks.obj
+         Debug\get_thread_id.obj
+         Debug\hardware_concurrency.obj
+         Debug\introduction.obj
+         Debug\introduction_to_future.obj
+         Debug\join_detach_1.obj
+         Debug\join_detach_2.obj
+         Debug\join_detach_3.obj
+         Debug\join_relaible_mechanism_1.obj
+         Debug\join_relaible_mechanism_2.obj
+         Debug\join_relaible_mechanism_3.obj
+         Debug\move_sematics.obj
+         Debug\mutex_lock_unlock.obj
+         Debug\mutex_lock_unlock_lock_guards.obj
+         Debug\mutex_what_can_go_wrong_1.obj
+         Debug\mutex_what_can_go_wrong_2.obj
+         Debug\overnight_bus_example.obj
+         Debug\overnight_bus_example_with_condition_variable.obj
+         Debug\package_task.obj
+         Debug\parallel_accumulate_with_async.obj
+         Debug\parallel_quick_sort.obj
+         Debug\pass_paramenters.obj
+         Debug\pass_reference_1.obj
+         Debug\problem_when_passing_reference.obj
+         Debug\promises.obj
+         Debug\promise_exception.obj
+         Debug\sequential_quick_sort.obj
+         Debug\shared_future.obj
+         Debug\problem_with_future_multiple_threads.obj
+         Debug\simple_stack_implementation.obj
+         Debug\simple_stack_race_condition_inherit_from_the_interface.obj
+         Debug\thread_safe_list.obj
+         Debug\tsq_with_linked_list_3.obj
+         Debug\tsq_with_linked_list_1.obj
+         Debug\tsq_with_linked_list_2.obj
+         Debug\thread_safe_queue_sp.obj
+         Debug\thread_safe_queue_with_waiting.obj
+         "Debug\unique_locks_mutex_ownership transfer.obj"
+     1>LINK : warning LNK4076: invalid incremental status file 'E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\Debug\ConcurrencyTutorials_new.ilk' (which will be deleted); linking nonincrementally
+     1>asynchronous_task.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         ConcurrencyTutorials_new.vcxproj -> E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\Debug\ConcurrencyTutorials_new.exe
+     1>Done Building Project "E:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\ConcurrencyTutorials_new\ConcurrencyTutorials_new.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.82

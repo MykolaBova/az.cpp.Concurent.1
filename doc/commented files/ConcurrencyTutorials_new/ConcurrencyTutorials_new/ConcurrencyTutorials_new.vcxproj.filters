@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\threads">
+      <UniqueIdentifier>{50d012ab-1b9f-4692-b78d-2ae356bc0d4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\locks">
+      <UniqueIdentifier>{40317dda-3ccf-4bc2-8a50-7b97181e06b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\condition variables and futures">
+      <UniqueIdentifier>{619fb0a0-ed58-486a-8a4e-98d7db652bdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\lock based data structures and algorithms">
+      <UniqueIdentifier>{cd17b529-4cb8-4c59-a2c7-755bff2e4396}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\atomics">
+      <UniqueIdentifier>{e541764a-f001-4960-90f8-7ef6f7d526c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\atomic implementations">
+      <UniqueIdentifier>{c4e575b1-cff7-4195-a3a8-c49ee9f74bab}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="problem_when_passing_reference.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="pass_reference_1.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="pass_paramenters.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="move_sematics.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_relaible_mechanism_3.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_relaible_mechanism_2.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_relaible_mechanism_1.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_detach_3.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_detach_2.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="join_detach_1.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="hardware_concurrency.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="get_thread_id.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="ConcurrencyTutorials_new.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="mutex_lock_unlock.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="mutex_lock_unlock_lock_guards.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="mutex_what_can_go_wrong_2.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="mutex_what_can_go_wrong_1.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_stack_implementation.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_stack_race_condition_inherit_from_the_interface.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="dead_locks_bank_account.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="dead_lock_bank_account_with_unique_locks.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="dead_lock_bank_account_with_solution.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="unique_locks_mutex_ownership transfer.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="call_once_and_once_flag.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="overnight_bus_example.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="overnight_bus_example_with_condition_variable.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_safe_queue_with_waiting.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="introduction_to_future.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="asynchronous_task.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="parallel_accumulate_with_async.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="package_task.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="promises.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="promise_exception.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="shared_future.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="problem_with_future_multiple_threads.cpp">
+      <Filter>Source Files\condition variables and futures</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_safe_queue_sp.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tsq_with_linked_list_3.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="tsq_with_linked_list_2.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="tsq_with_linked_list_1.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="sequential_quick_sort.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="parallel_quick_sort.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_safe_list.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="introduction.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_bool_1.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_bool_2.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_int_compare_exchange.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_pointers_1.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_pointers_2.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="introduction_memory_ordering_options.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="relationships_1.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_order_seq_cst.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_order_relaxed.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_order_acquire_release_2.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_order_acquire_release_1.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="transitive synchronization.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_order_consume.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="carries_dependency_to.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="release_sequence.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="spinlock_mutex.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_hazard_pointers.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_satck_reference_counting.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_memory_ordering.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_introduction_2.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_introduction_1.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_thread_counting_final.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+    <ClCompile Include="accumulate.cpp">
+      <Filter>Source Files\threads</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_stack_race_condition_inherit_from_interface_pop_top_combine.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="dead_lock_example.cpp">
+      <Filter>Source Files\locks</Filter>
+    </ClCompile>
+    <ClCompile Include="tsq_with_linked_list_4.cpp">
+      <Filter>Source Files\lock based data structures and algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="atomic_flag.cpp">
+      <Filter>Source Files\atomics</Filter>
+    </ClCompile>
+    <ClCompile Include="lock_free_stack_introduction_1_2.cpp">
+      <Filter>Source Files\atomic implementations</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="thred_guard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parallel_accumulate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="thread_safe_queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

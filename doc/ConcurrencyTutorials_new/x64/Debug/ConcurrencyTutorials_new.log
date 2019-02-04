@@ -1,0 +1,87 @@
+﻿Build started 7/19/2017 7:43:52 PM.
+     1>Project "F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\ConcurrencyTutorials_new\ConcurrencyTutorials_new.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt lock_free_stack_introduction_1.cpp
+         lock_free_stack_introduction_1.cpp
+     1>lock_free_stack_introduction_1.cpp(14): warning C4227: anachronism used : qualifiers on reference are ignored
+                 lock_free_stack_introduction_1.cpp(9) : see reference to class template instantiation 'lock_free_stack<T>::node' being compiled
+                 lock_free_stack_introduction_1.cpp(38) : see reference to class template instantiation 'lock_free_stack<T>' being compiled
+     1>lock_free_stack_introduction_1.cpp(22): warning C4227: anachronism used : qualifiers on reference are ignored
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\x64\Debug\ConcurrencyTutorials_new.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\x64\Debug\ConcurrencyTutorials_new.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\x64\Debug\ConcurrencyTutorials_new.lib" /MACHINE:X64 x64\Debug\accumulate.obj
+         x64\Debug\atomic_flag.obj
+         x64\Debug\carries_dependency_to.obj
+         x64\Debug\dead_lock_example.obj
+         x64\Debug\lock_free_satck_reference_counting.obj
+         x64\Debug\lock_free_stack_hazard_pointers.obj
+         x64\Debug\lock_free_stack_introduction_1.obj
+         x64\Debug\lock_free_stack_introduction_1_2.obj
+         x64\Debug\lock_free_stack_introduction_2.obj
+         x64\Debug\lock_free_stack_memory_ordering.obj
+         x64\Debug\lock_free_stack_thread_counting_final.obj
+         x64\Debug\memory_order_acquire_release_1.obj
+         x64\Debug\asynchronous_task.obj
+         x64\Debug\atomic_bool_1.obj
+         x64\Debug\atomic_bool_2.obj
+         x64\Debug\atomic_int_compare_exchange.obj
+         x64\Debug\atomic_pointers_1.obj
+         x64\Debug\atomic_pointers_2.obj
+         x64\Debug\call_once_and_once_flag.obj
+         x64\Debug\ConcurrencyTutorials_new.obj
+         x64\Debug\dead_locks_bank_account.obj
+         x64\Debug\dead_lock_bank_account_with_solution.obj
+         x64\Debug\dead_lock_bank_account_with_unique_locks.obj
+         x64\Debug\get_thread_id.obj
+         x64\Debug\hardware_concurrency.obj
+         x64\Debug\introduction.obj
+         x64\Debug\introduction_memory_ordering_options.obj
+         x64\Debug\introduction_to_future.obj
+         x64\Debug\join_detach_1.obj
+         x64\Debug\join_detach_2.obj
+         x64\Debug\join_detach_3.obj
+         x64\Debug\join_relaible_mechanism_1.obj
+         x64\Debug\join_relaible_mechanism_2.obj
+         x64\Debug\join_relaible_mechanism_3.obj
+         x64\Debug\memory_order_acquire_release_2.obj
+         x64\Debug\memory_order_consume.obj
+         x64\Debug\memory_order_seq_cst.obj
+         x64\Debug\move_sematics.obj
+         x64\Debug\mutex_lock_unlock.obj
+         x64\Debug\mutex_lock_unlock_lock_guards.obj
+         x64\Debug\mutex_what_can_go_wrong_1.obj
+         x64\Debug\mutex_what_can_go_wrong_2.obj
+         x64\Debug\overnight_bus_example.obj
+         x64\Debug\overnight_bus_example_with_condition_variable.obj
+         x64\Debug\package_task.obj
+         x64\Debug\parallel_accumulate_with_async.obj
+         x64\Debug\parallel_quick_sort.obj
+         x64\Debug\pass_paramenters.obj
+         x64\Debug\pass_reference_1.obj
+         x64\Debug\problem_when_passing_reference.obj
+         x64\Debug\promises.obj
+         x64\Debug\promise_exception.obj
+         x64\Debug\relationships_1.obj
+         x64\Debug\memory_order_relaxed.obj
+         x64\Debug\release_sequence.obj
+         x64\Debug\sequential_quick_sort.obj
+         x64\Debug\shared_future.obj
+         x64\Debug\problem_with_future_multiple_threads.obj
+         x64\Debug\simple_stack_implementation.obj
+         x64\Debug\simple_stack_race_condition_inherit_from_interface_pop_top_combine.obj
+         x64\Debug\simple_stack_race_condition_inherit_from_the_interface.obj
+         x64\Debug\spinlock_mutex.obj
+         x64\Debug\thread_safe_list.obj
+         "x64\Debug\transitive synchronization.obj"
+         x64\Debug\tsq_with_linked_list_3.obj
+         x64\Debug\tsq_with_linked_list_1.obj
+         x64\Debug\tsq_with_linked_list_2.obj
+         x64\Debug\thread_safe_queue_sp.obj
+         x64\Debug\thread_safe_queue_with_waiting.obj
+         x64\Debug\tsq_with_linked_list_4.obj
+         "x64\Debug\unique_locks_mutex_ownership transfer.obj"
+         ConcurrencyTutorials_new.vcxproj -> F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\x64\Debug\ConcurrencyTutorials_new.exe
+     1>Done Building Project "F:\MyTutorials\C++ Concurrency\code\ConcurrencyTutorials_new\ConcurrencyTutorials_new\ConcurrencyTutorials_new.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
