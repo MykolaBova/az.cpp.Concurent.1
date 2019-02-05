@@ -12,8 +12,458 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a5f6868-5611-4a34-8530-b2f0a685a25c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/,gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/,gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_item.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/main.cpp.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/Sales_item.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add_item.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add_item2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/avg_price.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/data/add" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/data/book_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/data/mysum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/data/occurs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/for_ex.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/forcount.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/item_io.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/main_only.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/mysum.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/occurs.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/whilecount.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/absInt.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/accum.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/accum4.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/avg_price.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/bind2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/absInt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/accum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/book_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/count-size" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/iostream_iter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/outFile1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/outFile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/rcomma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/reverse-iter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/data/use_find" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/elimDups.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/equal.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/equiv-istream-iter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/inserters.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/iostream_iter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/lambda.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/newcount-size.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/ostreamIter2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/outrunpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/rcomma.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/rev-iters.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/reverse-iter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/reverse.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/sortSI.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/use-istream-iter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/10/use_find.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/Alice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/simple_query" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/storyDataFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/data/word_count" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/erasemap.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/map1.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/multimap.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/pair.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/restricted_count.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/setOps.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/unorderedWordCount.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/wcEx.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/word_count.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/11/word_transform.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/Foo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/QueryResult.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/StrBlob.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/TextQuery.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/TextQuery.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/UP.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/allocPtr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/allocSP.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/data/Alice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/data/alloc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/data/storyDataFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/oknew.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/querymain.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/release.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/unique.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/useBlob.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/usealloc.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/usealloc2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/12/weak.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/Folder.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/Folder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/FolderMain.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/HasPtrUseCount.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/HasPtrValueLike.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/StrFolder.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/StrFolder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/StrFolderMain.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/StrVec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/StrVec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/String.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/String.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/copyNoMove.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/data/storyDataFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/moveHP.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/serial.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/small_SI.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/substr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/13/useStrVec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/Sales_data.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/Sales_data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/absInt.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/add.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/calc.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/data/absInt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/data/count-size" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/data/word_echo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/directcall.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/fcnobj.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/newcount-size.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/readStr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/14/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Basket.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Basket.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Basket_main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Query.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Query.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Quote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/Quote.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/andQueryTest.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/and_orQueryTest.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/data/querymain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/data/storyDataFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/data/three" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/data/two" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/get_print.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/sample.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/scope.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/useQuote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/vecBasket.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/virtualsNscope.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/15/wordQueryTest.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Array.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Blob.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/DebugDelete.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/SP.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Sales_data.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Sales_data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Vec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/Vecmain.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/array-parms4.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/build.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/compare.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/compare.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/compareDef.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/compareSpec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/data/Vecmain" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/data/book_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/data/book_trans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/debug.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/debug_rep.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/expansion.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/flip.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/multiset.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/overSpec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/qm.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/special.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/trail-ret.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/typealias.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/useBlob.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/useChcking.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/variadic.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/16/variadic3.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/REerrs.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/badgetc.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/bits.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/ccpgms.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/badgetc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/bits" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/copyOut" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/findDups" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/findDupsV2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/findgerunds" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/no-skipws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/phones" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/phones2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/phonesFinal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/skipws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/store1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/store2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/store3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/store4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/data/validatePhones" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/findbook.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/game.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/getc.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/getput.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/manips.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/manips11.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/no-skipws.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/normalInts.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/phones.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/phonesFinal.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/point.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/prec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/rand1.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/rand2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/rand4.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/rand6.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/regex1.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/sci_dec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/seed.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/seek.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/setw.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/skipws.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/subexpr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/tuple.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/validatePhones.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/17/zips.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/Animal.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/Animal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/Animal_virtual_baseVers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/Sales_data.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/book.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/bookexcept.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/class.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/data/book_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/ex-over.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/inherit.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/mi-scope.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/over.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/over2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/spec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/usingDirective.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/18/virt-inherit.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/.useScreen.cc.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/Screen.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/Screen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/TextQuery.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/Token.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/bitfields.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/calc.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/dyn_cast.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/enum-match.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/enum.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/memFN-bind.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/out2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/tok2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/typeid.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/19/useScreen.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/Sales_data.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/Sales_data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/compounddecls.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/convs.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/data/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/dbl_ptr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/decl-ex.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/escape.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/inits.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/literals.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/ref-ex.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/runpgms.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/scope_levels.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/2/unsigned.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/add_using.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/arrayScores.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/cctype.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/char_repl.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/cstring_hdr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/add" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/grades" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/hexify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/iterarith" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/ptr_traversal2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/string_io" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/vecStrings2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/data/word_echo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/getline.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/hexify.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/multidim.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/ptr_traversal2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/square.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/strcompare.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_add.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_io.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_io2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_size.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_size2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/string_size3.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/vecScores.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/vecStrings2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/vecSubs.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/vec_decls.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/3/word_echo.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/arith-ex.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/arraysizeof.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/cond.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/data/oofe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/data/vecSubs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/incr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/int-div.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/oofe.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/overflow.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/prec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/shift-prec.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/sizeof_pgm.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/unaryOps.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/vec_init.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/4/warn_dbltoint.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/add_item2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/data/add_item_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/data/doWhile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/data/grades" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/data/guesses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/data/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/doWhile.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/guess.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/ifgrades.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/othercnt.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/rangefor.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/5/vowels.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/LocalMath.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/LocalMath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/arrRet.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/count-calls.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/data/mainmath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/data/refparms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/errMsg_initList.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/fact.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/fcnptrRet.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/good_printmain.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/inline_shorter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/mainmath.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/mainret.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/make_plural.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/mk_plural.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/printFcns.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/ref-fcn.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/refparms.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/refret-ex.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/reset.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/stl-arr-fcns.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/use_mk_plural.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/usefcnptr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/6/wdebug.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Account.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Account.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Debug.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Debug.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Sales_data.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Sales_data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/Screen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/WindowMgr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/add_item.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/avg_price.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/data/book_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/useAccount.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/useDebug.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/7/useScreen.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/add_item.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/add_itemV2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/buf.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/clearIO.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/data/add_item" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/data/sstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/fileIO.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/8/sstream.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/capacity.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/data/erase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/erase1.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/erase2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/find-str.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/find_ops.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/refreshIter.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/runpgms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/stack.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/str_assignOps.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/substr.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/9/useConvs.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/CompilerNotes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/GCC 4.7 README.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/GNU_makefile_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/Version_test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/noinput" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/runpgms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cppHW.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cppHW" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cppHW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path=".idea/.name" />
@@ -34,27 +484,108 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="304">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="e#1#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/,gitignore">
+        <entry file="file://$PROJECT_DIR$/Sales_item.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="336">
+              <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/7/thread">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/,gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/ConcurrencyTutorials_new/join_detach_1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/Sales_item.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="e#1742#1761#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add_item2.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="30" column="13" selection-start-line="29" selection-end-line="46" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="30" lean-forward="true" selection-start-line="29" selection-end-line="40" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sales_item.h</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,8 +593,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/,gitignore" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -86,6 +618,32 @@
               <item name="cppHW" type="b2602c69:ProjectViewProjectNode" />
               <item name="az.cpp.Concurent.1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cppHW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="az.cpp.Concurent.1" type="462c0819:PsiDirectoryNode" />
+              <item name="doc1.lippman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cppHW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="az.cpp.Concurent.1" type="462c0819:PsiDirectoryNode" />
+              <item name="doc1.lippman" type="462c0819:PsiDirectoryNode" />
+              <item name="GCC_4_7_0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cppHW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="az.cpp.Concurent.1" type="462c0819:PsiDirectoryNode" />
+              <item name="doc1.lippman" type="462c0819:PsiDirectoryNode" />
+              <item name="GCC_4_7_0" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cppHW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="az.cpp.Concurent.1" type="462c0819:PsiDirectoryNode" />
+              <item name="doc1.lippman" type="462c0819:PsiDirectoryNode" />
+              <item name="GCC_4_7_0" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -94,9 +652,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USCS-RF-FE2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +692,7 @@
       <option name="presentableId" value="Default" />
       <updated>1548759894551</updated>
       <workItem from="1548759895998" duration="787000" />
-      <workItem from="1549302560250" duration="749000" />
+      <workItem from="1549302560250" duration="3486000" />
     </task>
     <task id="LOCAL-00001" summary="Minor changes">
       <created>1548760050672</created>
@@ -144,17 +708,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549303300614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".gitignore">
+      <created>1549303349603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549303349604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1536000" />
+    <option name="totallyTimeSpent" value="4273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="25" width="2513" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15808675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28942034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,7 +738,7 @@
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32963374" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32852387" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32963374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -182,23 +752,97 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Minor changes" />
     <MESSAGE value="Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples" />
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file:///usr/include/c++/7/thread">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="192">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ConcurrencyTutorials_new/simple_stack_implementation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#82#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/,gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ConcurrencyTutorials_new/join_detach_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="66" lean-forward="true" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="30" lean-forward="true" selection-start-line="29" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/Sales_item.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="e#1742#1761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc1.lippman/GCC_4_7_0/1/add_item2.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="30" column="13" selection-start-line="29" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#1#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sales_item.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
