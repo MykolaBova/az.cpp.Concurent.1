@@ -1,1 +1,1 @@
-/usr/bin/c++   -Wall -pthread -MMD -MP -DDEBUG -g -g   CMakeFiles/cppHW.dir/main.cpp.o  -o cppHW 
+/usr/bin/c++   -Wall -pthread -MMD -MP -DDEBUG -g -g   CMakeFiles/cppHW.dir/main.cpp.o  -o cppHW -lcurses -lform -lcurl -lmenu -ljsoncpp -lpthread 

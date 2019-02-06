@@ -6,17 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/mykolabova/_bova/code/az.cpp.Concurent.1/Sales_item.h
-iostream
--
-string
--
-
 /home/mykolabova/_bova/code/az.cpp.Concurent.1/main.cpp
-thread
+curses.h
 -
-iostream
--
-Sales_item.h
-/home/mykolabova/_bova/code/az.cpp.Concurent.1/Sales_item.h
 
