@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/mykolabova/_bova/code/az.cpp.Concurent.1/main.cpp
-panel.h
+string
+-
+iostream
 -
 
